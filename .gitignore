@@ -1,5 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 026849e (Inicio del proyecto)
 *.py[codz]
 *$py.class
 
@@ -205,3 +209,44 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
+=======
+=======
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# Local env files
+.env
+
+# VSCode settings
+.vscode/
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Migrations (opcional, si no quieres versionarlas al principio)
+# my_first_app/migrations/
+
+# Static files (si los generas localmente)
+staticfiles/
+
+>>>>>>> 57540b4 (Limpiar archivos ignorados y aplicar .gitignore)
+
+>>>>>>> 026849e (Inicio del proyecto)
